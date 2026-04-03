@@ -1,3 +1,5 @@
+# Transferred to Codeberg: [LINK](https://codeberg.org/shanecaf/bedrock-server-downloader)
+
 # Bedrock Server Downloader
 
 This is a bedrock server downloader intended for use within Pterodactyl.
